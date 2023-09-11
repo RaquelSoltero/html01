@@ -1,0 +1,9 @@
+body{background-color: navajowhite;}
+
+.tabla1, td {
+border:1px solid black;
+}
+.tabla1 {
+border-spacing:10px;
+}
+
